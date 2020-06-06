@@ -118,7 +118,7 @@ main {
   position: absolute;
   top: 5px;
   left: calc(var(--width-bar) - 20px);
-  background-color: var(--light-2);
+  background-color: #fff;
   width: 14px;
   height: 14px;
   border-radius: 50%;
